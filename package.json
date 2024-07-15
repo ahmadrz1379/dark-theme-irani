@@ -1,0 +1,21 @@
+{
+  "name": "dark-theme-irani",
+  "displayName": "dark theme irani",
+  "description": "this is a irani theme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark theme irani",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark theme irani-color-theme.json"
+      }
+    ]
+  }
+}
